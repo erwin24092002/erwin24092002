@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erwin24092002" alt="erwin24092002" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="./img/animated_coding.gif">
 
 - 🔭 I’m currently working on [University of Information Technology](https://www.uit.edu.vn/)
 
